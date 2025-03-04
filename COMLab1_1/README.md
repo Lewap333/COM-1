@@ -12,7 +12,7 @@ Aby poprawnie uruchomić projekt, należy zmienić ścieżkę do pliku **`serwer
 1. Otwórz odpowiedni plik (`rej64.reg` lub `rej.reg`).
 2. Znajdź linię zawierającą ścieżkę do **`serwerInProc.dll`**.
 3. Zmień ścieżkę na prawidłową zgodnie z lokalizacją pliku `serwerInProc.dll`.  
-   **Uwaga**: W plikach `.reg` znak `\` musi być zapisany podwójnie jako `\\`.
+   **Uwaga**: W plikach `.reg` przy podawaniu ścieżki znak `\` musi być zapisany podwójnie jako `\\`.
 4. Uruchom plik plik (`rej64.reg` lub `rej.reg`).
 
 ## Usunięcie z rejestru
