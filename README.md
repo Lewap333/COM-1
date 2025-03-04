@@ -15,3 +15,9 @@ git clone https://github.com/TwojeRepozytorium/ProjektCOMLab.git
 ## Otwieranie projektu
   
 Otwórz plik .sln w Visual Studio.
+
+## Ustawienie architektury 
+
+Przed uruchamianiem projektu, należy upewnić się, że wybrana architektura to **x86**. 
+
+![image](https://github.com/user-attachments/assets/b6c8a203-6dac-47cc-b372-628a8d478b46)
