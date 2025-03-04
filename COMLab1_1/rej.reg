@@ -1,9 +1,9 @@
 REGEDIT4
 
-[HKEY_CURRENT_USER\Software\Classes\CLSID\{xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx}]
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{67417A67-096F-45EE-8063-4D206F5985B5}]
 @="Klasa"
 
-[HKEY_CURRENT_USER\Software\Classes\CLSID\{xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx}\InProcServer32]
-@="Dysk:\\Bezwzglêdna\\œcie¿ka\\do\\biblioteki\\klasa.dll"
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{67417A67-096F-45EE-8063-4D206F5985B5}\InProcServer32]
+@="Dysk:\\Bezwzglêdna\\œcie¿ka\\do\\biblioteki\\serwerInProc.dll"
 "ThreadingModel"="Both"
 

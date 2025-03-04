@@ -4,6 +4,6 @@ REGEDIT4
 @="Klasa3"
 
 [HKEY_CURRENT_USER\Software\Classes\Wow6432Node\CLSID\{D41B2BB6-8973-4DBD-8A92-B1A81D3F4429}\InProcServer32]
-@="C:\\Git\\Visual\\COMLab1\\COMLab1\\Debug\\COMLab1_4.dll"
+@="C:\\Git\\COM-1\\Debug\\COMLab1_4.dll"
 "ThreadingModel"="Both"
 
